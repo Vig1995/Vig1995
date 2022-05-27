@@ -1,9 +1,4 @@
-### Hi! I am Vignesh 👋
-
-<!--
-**Vig1995/Vig1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi! I am Vignesh 👋
 
 - 🔭 I’m currently Persuining M-Tech in Industrial automation and Robotics 
 - 🌱 I’m currently doing courses on Machine Learning and Deep Learning
