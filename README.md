@@ -1,4 +1,4 @@
-Hi! I am Vignesh 👋
+### Hi! I am Vignesh 👋
 
 - 🔭 I’m currently Persuining M-Tech in Industrial automation and Robotics 
 - 🌱 I’m currently doing courses on Machine Learning and Deep Learning
