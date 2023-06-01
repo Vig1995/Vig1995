@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Machine Learning, Data Science,Advanced Excel, Microsoft PowerBI
+-  **Learning :** Machine Learning, Data Science, Advanced Excel, Microsoft PowerBI
 -  **Languages :** Python
 -  **Hobbies :** Yoga and Trekking:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
